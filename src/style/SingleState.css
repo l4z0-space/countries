@@ -1,0 +1,17 @@
+.flag{
+    border-radius: 6px;
+    padding: 5px;
+    width: 175px;
+    border-radius: 20%;
+    margin-right: 60px;
+  }
+
+.flag:hover {
+    width: 150px;
+    height: 100px;
+    transition: 1s ease-out;
+}
+
+html{
+  font-family: 'Courier New', Courier, monospace;
+}

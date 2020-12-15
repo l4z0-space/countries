@@ -1,0 +1,11 @@
+.showButton{
+    background: darksalmon ;
+    width: 50px;
+    margin: 4px;
+    border: none;
+    border-radius: 3px;
+}
+.showButton:hover{
+    width: 60px;
+    transition: 0.1s;
+}
